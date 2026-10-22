@@ -10,11 +10,11 @@ ChatCanvas（语布）的**安装包与自动更新清单**发布仓库。
 
 | 平台 | 安装包 |
 | --- | --- |
-| Windows x64 | [ChatCanvas 2.2.3 安装包](https://github.com/kriswyl/chatcanvas-releases/releases/download/v2.2.3/ChatCanvas_2.2.3_x64-setup.exe) |
-| Windows 校验签名 | [`.exe.sig`](https://github.com/kriswyl/chatcanvas-releases/releases/download/v2.2.3/ChatCanvas_2.2.3_x64-setup.exe.sig) |
-| macOS (Apple Silicon) | 稍后补充（当前 macOS 版不参与自动更新） |
+| Windows x64 | [ChatCanvas 2.2.4 安装包](https://github.com/kriswyl/chatcanvas-releases/releases/download/v2.2.4/ChatCanvas_2.2.4_x64-setup.exe) |
+| Windows 校验签名 | [`.exe.sig`](https://github.com/kriswyl/chatcanvas-releases/releases/download/v2.2.4/ChatCanvas_2.2.4_x64-setup.exe.sig) |
+| macOS (Apple Silicon) | [ChatCanvas 2.2.4 dmg](https://github.com/kriswyl/chatcanvas-releases/releases/download/v2.2.4/ChatCanvas_2.2.4_aarch64.dmg) |
 
-安装包带 minisign 签名；客户端自动更新时会校验签名，签名不匹配不会安装。
+安装包带 minisign 签名；Windows 客户端自动更新时会校验签名，签名不匹配不会安装。macOS 版当前不参与自动更新，请手动下载 dmg。
 
 ## 自动更新
 
